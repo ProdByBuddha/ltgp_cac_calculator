@@ -6,7 +6,7 @@ path = "src/ltgp_cac_calculator.rs"
 [package]
 name = "ltgp_cac_calculator"
 version = "0.1.0"
-edition = "2025"
+edition = "2024"
 description = "Crow's Nest: a guided LTGP:CAC growth economics calculator with an interactive form"
 license = "MIT"
 
