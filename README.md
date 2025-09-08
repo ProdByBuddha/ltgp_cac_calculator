@@ -64,3 +64,10 @@ Issues and PRs are welcome. If you want to discuss features or integrations, ope
 ## License
 MIT License — see LICENSE for details.
 
+<img width="1334" height="752" alt="Interactive Wizard" src="https://github.com/user-attachments/assets/7e66a5b4-bc76-4076-9922-310cfce62185" />
+<img width="1918" height="726" alt="Quadrant 1" src="https://github.com/user-attachments/assets/2918a69e-0c2b-40be-b904-2b819b2a5a4b" />
+<img width="1908" height="728" alt="Quadrant 2" src="https://github.com/user-attachments/assets/21f9f1d6-4af2-495e-9f9b-1f059fd24f02" />
+<img width="1908" height="729" alt="Quadrant 3" src="https://github.com/user-attachments/assets/5e8a072d-3480-48fd-9cbf-c1f1c2a7e04b" />
+<img width="1904" height="725" alt="Quadrant 4" src="https://github.com/user-attachments/assets/4d8dbe56-85fe-4651-9b3e-8d844ae37f24" />
+<img alt="https://skool.com/vibe-coding" src="https://github.com/user-attachments/assets/fe3bd9a5-b659-4754-9eaf-c5679ddd43a1" />
+
