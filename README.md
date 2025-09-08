@@ -69,5 +69,14 @@ MIT License — see LICENSE for details.
 <img width="1908" height="728" alt="Quadrant 2" src="https://github.com/user-attachments/assets/21f9f1d6-4af2-495e-9f9b-1f059fd24f02" />
 <img width="1908" height="729" alt="Quadrant 3" src="https://github.com/user-attachments/assets/5e8a072d-3480-48fd-9cbf-c1f1c2a7e04b" />
 <img width="1904" height="725" alt="Quadrant 4" src="https://github.com/user-attachments/assets/4d8dbe56-85fe-4651-9b3e-8d844ae37f24" />
-<img alt="https://skool.com/vibe-coding" src="https://github.com/user-attachments/assets/fe3bd9a5-b659-4754-9eaf-c5679ddd43a1" />
+
+## 🚀 Ready to Level Up Your Coding Game?  
+Click below to join the Vibe Coding community and start learning smarter. 
+
+<a href="https://skool.com/vibe-coding">
+  <img src="https://github.com/user-attachments/assets/fe3bd9a5-b659-4754-9eaf-c5679ddd43a1" alt="Vibe Coding" />
+</a>
+
+
+
 
