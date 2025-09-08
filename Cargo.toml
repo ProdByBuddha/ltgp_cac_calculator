@@ -1,0 +1,15 @@
+
+[[bin]]
+name = "ltgp_cac_calculator"
+path = "src/ltgp_cac_calculator.rs"
+
+[package]
+name = "ltgp_cac_calculator"
+version = "0.1.0"
+edition = "2025"
+description = "Crow's Nest: a guided LTGP:CAC growth economics calculator with an interactive form"
+license = "MIT"
+
+[dependencies]
+clap = { version = "4.2", features = ["derive"] }
+colored = "2.0"
